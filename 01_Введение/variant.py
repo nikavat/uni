@@ -23,6 +23,7 @@ change = amount_paid - total_cost_with_delivery
 print("Название заказа: ", order)
 print("Имя заказчика: ", name)
 
+print("Название позиции | Кол-во | Цена единицы | Стоимость товаров")
 print(f"{order_name} | {order_quantity} | {order_price:.2f} | {cost:.2f}")
 print(f"{order_name2} | {order_quantity2} | {order_price2:.2f} | {cost2:.2f}")
 
