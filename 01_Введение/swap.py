@@ -1,7 +1,7 @@
-first_room = 101
-second_room = 202
+first_room = input("Первая аудитория: ")
+second_room = input("Вторая аудитория: ")
 third_room = first_room
 first_room = second_room
 second_room = third_room
-print("first_room - ", first_room)
-print("second_room - ", second_room)
+print("Первая аудитория - ", first_room)
+print("Вторая аудитория - ", second_room)
