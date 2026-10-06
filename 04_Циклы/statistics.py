@@ -6,7 +6,7 @@ pozitive_count = 0
 number = int(input("Введите число: "))
 total += number
 
-if number >0:
+if number > 0:
     pozitive_count += 1
 
 maximum = number
