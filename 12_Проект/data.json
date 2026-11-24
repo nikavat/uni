@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Пси",
+        "category": "Триллер",
+        "amount": 320,
+        "completed": true
+    },
+    {
+        "id": 2,
+        "title": "Тени Сентфора",
+        "category": "Детектив",
+        "amount": 250,
+        "completed": false
+    },
+    {
+        "id": 3,
+        "title": "Водяная лилия",
+        "category": "Триллер",
+        "amount": 400,
+        "completed": false
+    },
+    {
+        "id": 4,
+        "title": "Разбитое сердце Астреи",
+        "category": "Мистика",
+        "amount": 180,
+        "completed": true
+    }
+]
